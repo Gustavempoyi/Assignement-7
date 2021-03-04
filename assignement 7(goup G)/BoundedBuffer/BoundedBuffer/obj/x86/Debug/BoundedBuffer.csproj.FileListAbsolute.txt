@@ -1,0 +1,8 @@
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.exe
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.pdb
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.exe
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.pdb
+C:\Users\hp\Desktop\My Documents\Licence 3 Réseaux et Infrastructures\Programmation Systeme\tp6\DiningPhilosophers\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.exe
+C:\Users\hp\Desktop\My Documents\Licence 3 Réseaux et Infrastructures\Programmation Systeme\tp6\DiningPhilosophers\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.pdb
+C:\Users\hp\Desktop\My Documents\Licence 3 Réseaux et Infrastructures\Programmation Systeme\tp6\DiningPhilosophers\BoundedBuffer\BoundedBuffer\obj\x86\Debug\ResolveAssemblyReference.cache
